@@ -1,6 +1,6 @@
-# Your Name
+# VICTOR GUERRERO JR
 
-Software Developer / Designer
+Software Developer 
 
 ## About Me
 I am a motivated and detail-oriented professional with a passion for building clean, efficient, and user-friendly digital experiences. I enjoy solving problems, learning new technologies, and contributing to meaningful projects.
