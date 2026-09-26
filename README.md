@@ -28,12 +28,12 @@ I am a motivated and detail-oriented professional with a passion for building cl
 
 ## Education
 Bachelor's Degree in Computer Science  
-University Name | 2020 - 2024
+University Name | 2022 - 2025
 
 ## Certifications
 
 ## Contact
 Email: guerrerototie2026@email.com  
-Phone: +123 456 7890  
+Phone: 09938469921
 LinkedIn: linkedin.com/in/yourname  
 GitHub: github.com/yourusername
