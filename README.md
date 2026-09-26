@@ -35,5 +35,4 @@ University Name | 2022 - 2025
 ## Contact
 Email: guerrerototie2026@email.com  
 Phone: 09938469921
-LinkedIn: linkedin.com/in/yourname  
-GitHub: github.com/yourusername
+GitHub: github.com/kuyatotie
