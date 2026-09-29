@@ -33,5 +33,7 @@ ASIAN INSTITUTE OF COMPUTER STUDIES | 2022 - 2025
 ## Contact
 Email: guerrerototie2026@email.com  
 Telegram:
+
 GitHub: github.com/kuyatotie
+
 WhatsApp:
