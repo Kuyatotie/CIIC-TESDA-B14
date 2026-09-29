@@ -25,8 +25,8 @@ I am a motivated and detail-oriented professional with a passion for building cl
 
 
 ## Education
-Bachelor's Degree in Computer Science  - UNDER GRADUATE
-ASIAN INSTITUTE OF COMPUTER STUDIES | 2022 - 2025
+Bachelor's Degree in Computer Science 
+ASIAN INSTITUTE OF COMPUTER STUDIES  BICUTAN BRANCH| 2022 - 2025
 
 ## Certifications
 
