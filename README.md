@@ -3,24 +3,13 @@
 
 
 ## About Me
-I am a motivated and detail-oriented professional with a passion for building clean, efficient, and user-friendly digital experiences. I enjoy solving problems, learning new technologies, and contributing to meaningful projects.
+I am a motivated and detail-oriented professional with a passion for building clean, efficient, and user-friendly digital experiences. I enjoy solving problems, learning new technologies, and contr[...]
 
 ## Skills
 -Basic JavaPrograming
 -Webdevelopment Basics
 - Problem Solving
 - UI/UX Basics
-
-
-## Experience
-
-
-
-### Portfolio Website
-- Created a personal portfolio to showcase projects and skills
-- Built with modern frontend technologies
-- Focused on responsive design and user experience
-
 
 
 ## Education
