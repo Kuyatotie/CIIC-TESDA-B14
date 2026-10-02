@@ -18,6 +18,9 @@ ASIAN INSTITUTE OF COMPUTER STUDIES  BICUTAN BRANCH| 2022 - 2025
 
 ## Certifications
 
+## Projects
+- **Simple POS System** - A point-of-sale system built using Java with features for inventory management, transaction processing, and sales reporting.
+
 ## Contact
 Email: guerrerototie2026@email.com  
 Telegram:
