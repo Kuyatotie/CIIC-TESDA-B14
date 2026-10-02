@@ -8,7 +8,6 @@ I am a motivated and detail-oriented professional with a passion for building cl
 ## Skills
 -Basic JavaPrograming
 -Webdevelopment Basics
-- Git / GitHub
 - Problem Solving
 - UI/UX Basics
 
